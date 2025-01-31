@@ -1,4 +1,0 @@
-venv/
-dags/__pycache__
-tasks/__pycache__
-.gitignore
